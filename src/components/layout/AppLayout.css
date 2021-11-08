@@ -1,0 +1,54 @@
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.trigger:hover {
+    color: #1890ff;
+}
+
+.site-logo {
+    color: white;
+    margin: 20px 5px;
+    font-size: 1.5rem
+}
+
+.logo-image {
+    border-radius: 20%;
+    margin-left: 20px;
+    width: 30px;
+}
+
+.site-layout .site-layout-header {
+    background: #fff;
+    padding: 1px;
+}
+
+.site-layout .site-layout-content {
+    background: #fff;
+    margin: 24px 16px;
+    padding: 24px;
+}
+
+.site-layout .site-layout-page {
+    background: #fff;
+    padding: 24px;
+}
+
+.login-info {
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 20px;
+}
+
+.page-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.page-content {
+    margin-top: 10px
+}
