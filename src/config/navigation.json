@@ -1,78 +1,24 @@
 {
   "items": [
     {
-      "title": "GNB1-22",
+      "title": "Web Hook Go",
       "icon": "BsFillArchiveFill",
       "items": [
         {
-          "title": "SNB1",
+          "title": "경고 설정",
           "icon": "IoBagHandle",
           "items": [
             {
-              "title": "Sub1",
+              "title": "Ignore",
               "icon": "IoIosAmericanFootball",
-              "link": "/sub1"
-            },
-            {
-              "title": "Sub2",
-              "icon": "IoAlarmOutline",
-              "link": "/sub2"
+              "link": "/web-hook-go/ignores"
             }
           ]
         },
         {
-          "title": "SNB2",
-          "icon": "HiBriefcase",
-          "link": "/snb2"
-        },
-        {
-          "title": "Sample",
-          "icon": "HiCake",
-          "link": "/sample-list"
-        }
-      ]
-    },
-    {
-      "title": "GNB2",
-      "icon": "IoIosAlbums",
-      "accessPermissions": ["MANAGE_MEMBERS", "MANAGE_SYSTEM_SETTINGS"],
-      "items": [
-        {
-          "title": "SNB3",
-          "icon": "Si3M",
-          "items": [
-            {
-              "title": "Sub5",
-              "icon": "SiAdobeaudition",
-              "link": "/sub5"
-            },
-            {
-              "title": "Sub6",
-              "icon": "VscCalendar",
-              "link": "/sub6"
-            }
-          ]
-        },
-        {
-          "title": "SNB4",
-          "icon": "SiAdobeacrobatreader",
-          "items": [
-            {
-              "title": "Sub7",
-              "icon": "SiAiohttp",
-              "link": "/sub7"
-            },
-            {
-              "title": "Sub8",
-              "icon": "SiAframe",
-              "link": "/sub8"
-            }
-          ]
-        },
-        {
-          "title": "SNB5",
-          "icon": "SiAirbnb",
-          "link": "/sample"
+          "title": "템플릿 설정",
+          "icon": "IoBagHandle",
+          "link": "/web-hook-go/template"
         }
       ]
     }
